@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: EIME Woodpecker
+description: A fun experiment for a Jeykll site using the Just the Docs theme
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://karensido.github.io
+baseurl: /eime-woodpecker
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
